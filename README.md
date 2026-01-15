@@ -1,4 +1,12 @@
-## Hi there 👋
+👋 Olá, sou Beatriz Vieira da Silva
+
+👀 Tenho interesse em tecnologia e inovações.
+
+🌱 Atualmente estou estudando Ciências da Computação
+
+💞️ Busco colaborar em projetos tecnológicos inovadores e desenvolvimento de sistemas.
+
+📫 Como entrar em contato comigo: beatrizvieira2203@hotmail.com 
 
 <!--
 **trizruby/trizruby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
